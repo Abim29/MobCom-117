@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas 2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_a">Activity A</string>
+    <string name="title_activity_b">Activity B</string>
+    <string name="tab_text_1">First Tab</string>
+    <string name="tab_text_2">Second Tab</string>
+</resources>
